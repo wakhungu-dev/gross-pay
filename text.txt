@@ -1,0 +1,7 @@
+# Sample text to write into the file
+sample_text = """The quick brown fox jumps over the lazy dog.
+Programming is fun and rewarding!
+Python makes file handling easy.
+Learning to code opens new possibilities.
+Data persistence is important."""
+
