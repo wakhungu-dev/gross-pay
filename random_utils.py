@@ -10,3 +10,4 @@ for i in range(10):
     print(x.sample([1, 2, 3, 4, 5], 3))
     print(x.uniform(1, 10))
     print(x.triangular(1, 10))
+    
