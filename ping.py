@@ -10,3 +10,11 @@ while True:
     else:
         print(f"{hostname} is down!")
     print()
+    try:
+        continue
+    except KeyboardInterrupt:
+        print("\nExiting...")
+        break
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        continue
