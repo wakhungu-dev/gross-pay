@@ -12,3 +12,6 @@ for i in range(10):
     print(x.triangular(1, 10))
     print(x.betavariate(1, 1))
     print(x.expovariate(1))
+    print(x.gammavariate(1, 1))
+    print(x.gauss(1, 1))
+    print(x.lognormvariate(1, 1))
